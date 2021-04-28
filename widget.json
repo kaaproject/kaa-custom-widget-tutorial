@@ -1,0 +1,8 @@
+{
+  "packageName": "@kaa/custom-command-widget",
+  "name": "Custom command widget",
+  "description": "Example of custom widget",
+  "category": "Experimental",
+  "preview": "preview.svg",
+  "version": "1.0.0"
+}
